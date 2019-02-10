@@ -1,6 +1,6 @@
 [submodule "dhs"]
 	path = dhs
-	url = https://github.com/mer-hybris/droid-hal-source
+	url = https://github.com/marina-bay/droid-hal-source
 [submodule "droid-hal-source"]
 	path = droid-hal-source
-	url = https://github.com/mer-hybris/droid-hal-source
+	url = https://github.com/marina-bay/droid-hal-source
